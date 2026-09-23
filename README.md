@@ -18,7 +18,7 @@ I enjoy learning how things work under the hood and constantly improving my deve
 
 ---
 
-### 🚀 What I'm Working On
+### 🥶 What I'm Working On
 
 Building projects to strengthen my skills in full-stack web development and exploring different areas of software engineering.
 
