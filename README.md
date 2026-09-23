@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Thiago 👋
 
-<!--
-**ThiagodePaula00/ThiagodePaula00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Web Developer from Brazil
 
-Here are some ideas to get you started:
+I'm a junior web developer focused on building modern and practical web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning how things work under the hood and constantly improving my development skills.
+
+---
+
+### 🛠️ Tech Stack
+
+### Frontend: HTML | CSS | JavaScript | TypeScript | React | Next.js
+
+### Backend: Node.js | NestJS | Express | REST APIs
+
+### Database & Tools: MySQL | TypeORM
+
+---
+
+### 🚀 What I'm Working On
+
+Building projects to strengthen my skills in full-stack web development and exploring different areas of software engineering.
+
+---
+
+### 📫 Let's Connect
+
+* Feel free to explore my repositories and follow my progress!
+* LinkedIn profile — coming soon
