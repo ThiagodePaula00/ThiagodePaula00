@@ -12,7 +12,7 @@ I enjoy learning how things work under the hood and constantly improving my deve
 
 ### Frontend: HTML | CSS | JavaScript | TypeScript | React | Next.js
 
-### Backend: Node.js | NestJS | Express | REST APIs
+### Backend: Node.js | NestJS | REST APIs
 
 ### Database & Tools: MySQL | TypeORM
 
