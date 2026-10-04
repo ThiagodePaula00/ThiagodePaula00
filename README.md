@@ -14,7 +14,7 @@ I enjoy learning how things work under the hood and constantly improving my deve
 
 ### Backend: Node.js | NestJS | REST APIs
 
-### Database & Tools: MySQL | TypeORM
+### Database & Tools: MySQL | Git | Docker
 
 ---
 
