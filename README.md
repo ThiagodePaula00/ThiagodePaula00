@@ -4,7 +4,7 @@
 
 I'm a junior web developer focused on building modern and practical web applications.
 
-I enjoy learning how things work under the hood and constantly improving my development skills.
+I enjoy learning how things work under the hood and constantly improving my development skills (I use CachyOs btw).
 
 ---
 
